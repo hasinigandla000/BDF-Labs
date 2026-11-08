@@ -58,7 +58,7 @@ node server.js
 
 ## 6. Screenshots
 
-Screenshots of successful API requests, query parameter testing, validation errors and debugging results will be added in the `screenshots` folder.
+Screenshots of successful GET, POST, PUT, DELETE requests and query parameter testing are available in the screenshots folder.
 
 ## 7. Debugging
 
@@ -69,7 +69,12 @@ Common errors handled:
 - Book ID not found.
 - Port conflicts and incorrect routes.
 
-## 8. Conclusion
+## 8. Problems Faced and Solutions
+- PowerShell blocked npm commands; used npm.cmd.
+- Used Postman Desktop Agent to test the localhost API.
+- Restarting the server reset the in-memory book data.
+
+## 9. Conclusion
 
 This lab helped me understand REST API development using Node.js and Express.js. I implemented CRUD operations, query parameters, searching, sorting, filtering, pagination, validation and error handling using Postman.
 
