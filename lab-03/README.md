@@ -1,5 +1,7 @@
 # Lab 3: REST API, Query Parameters, Validation and Debugging
 
+**Live API:** https://lab-03-book-api-c789.onrender.com
+
 ## Student Details
 - **Name:** Hasini Gandla
 - **Registration Number:** 252U1R6071
