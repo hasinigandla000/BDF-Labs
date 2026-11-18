@@ -3,11 +3,11 @@
 
 **Subject:** Backend Development Fundamentals
 
-**Student Name:** Your Name
+**Student Name:** Gandla Hasini
 
-**Registration Number:** Your Registration Number
+**Registration Number:** 252U1R6071
 
-**Section:** Your Section
+**Section:** 207 & 2B
 
 ## Objective
 
