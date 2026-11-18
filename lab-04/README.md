@@ -53,13 +53,10 @@ Server runs at: http://localhost:3000
 ### 3. Successful Login
 ![Login Success](login-success.png)
 
-### 4. Wrong Password
-![Wrong Password](login-wrong-password.png)
-
-### 5. Unknown Username
+### 4. Unknown Username
 ![Unknown User](login-unknown-user.png)
 
-### 6. JWT Decoding
+### 5. JWT Decoding
 ![JWT Decoded](jwt-decoded.png)
 
 ## Problems Faced and Solutions
