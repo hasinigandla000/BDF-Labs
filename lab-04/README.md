@@ -45,7 +45,7 @@ Server runs at: http://localhost:3000
 ## Screenshots
 
 ### 1. Successful Registration
-![Register Success](/register-success.png)
+![Register Success](register-success.png)
 
 ### 2. Duplicate Registration
 ![Register Duplicate](screenshots/register-duplicate.png)
