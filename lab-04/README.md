@@ -48,19 +48,19 @@ Server runs at: http://localhost:3000
 ![Register Success](register-success.png)
 
 ### 2. Duplicate Registration
-![Register Duplicate](screenshots/register-duplicate.png)
+![Register Duplicate](register-duplicate.png)
 
 ### 3. Successful Login
-![Login Success](screenshots/login-success.png)
+![Login Success](login-success.png)
 
 ### 4. Wrong Password
-![Wrong Password](screenshots/login-wrong-password.png)
+![Wrong Password](login-wrong-password.png)
 
 ### 5. Unknown Username
-![Unknown User](screenshots/login-unknown-user.png)
+![Unknown User](login-unknown-user.png)
 
 ### 6. JWT Decoding
-![JWT Decoded](screenshots/jwt-decoded.png)
+![JWT Decoded](jwt-decoded.png)
 
 ## Problems Faced and Solutions
 
